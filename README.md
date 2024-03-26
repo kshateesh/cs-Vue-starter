@@ -7,10 +7,6 @@ About Contentstack: Contentstack is a headless CMS with an API-first approach th
 
 ![contentstack-vuejs-starter-app](/public/readme.png)
 
-## Live Demo
-
-You can check the [live demo](https://contentstack-vuejs-starter-app.vercel.app/) to get first-hand experience of the website.
-
 ## Tutorial
 
 We have created an in-depth tutorial on how you can create a Vue.js starter website using Contentstack's Node.js SDK and its fetch content from Contentstack.
