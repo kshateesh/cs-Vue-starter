@@ -4,7 +4,6 @@
 
 About Contentstack: Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
-About this project: Vue.js is a progressive framework for building user interfaces.This guide will help you create a starter website using Vue.js and Contentstack with minimal steps. 
 
 ![contentstack-vuejs-starter-app](/public/readme.png)
 
